@@ -1,4 +1,4 @@
-##''And so it vanished, like a whisper in the darkness..''
+## ''And so it vanished, like a whisper in the darkness..''
 
 <!--
 **DevGobbi/DevGobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
