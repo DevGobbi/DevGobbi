@@ -30,12 +30,5 @@
 </p>
 
 [![DevGobbi](https://github-readme-stats.vercel.app/api?username=DevGobbi&theme=default&show_icons=true)](https://github.com/devgobbi/github-readme-stats)
-  <div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
-  </picture>
-</div>
-
+ 
 [![Dev Gobbi](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact)](https://github.com/DevGobbi/github-readme-stats)
