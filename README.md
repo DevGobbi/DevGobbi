@@ -37,3 +37,5 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
+
+[![Dev Gobbi](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact)](https://github.com/DevGobbi/github-readme-stats)
