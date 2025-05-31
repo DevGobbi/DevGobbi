@@ -28,3 +28,10 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
+  </picture>
+</div>
