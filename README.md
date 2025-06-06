@@ -31,8 +31,9 @@ As said before, i am currently learning Java and aiming to also learn any form o
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=spring" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=discord" />
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=github" />
+ <img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=notion" />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=74F9A6&section=footer">
 </div>
