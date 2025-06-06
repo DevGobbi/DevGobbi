@@ -11,7 +11,7 @@
 <div align="center">
 <img align="center" src="https://i.pinimg.com/originals/40/55/a2/4055a2264eaddbda2b11e2b6fd66dbd0.gif" width="1000px" height="500px">
  
-```lua 
+```java
 Dev Gobbi
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 11
