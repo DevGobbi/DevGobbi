@@ -2,21 +2,22 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=João%20Gobbi&fontAlign=65&fontAlignY=40&color=74F9A6" height="100%" width="100%">
 
-<h3>Hello World! My name is Mateus and I am currently a Systems Analysis and Development <br> student at the Federal Institute of Education, Science and Technology of São Paulo. 🤍</h3>
+<h3>Hello World! I'm João Victor, a novice brazilian software engineer! </h3>
+<h3>I currently study System Development at IFSP - Caraguatatuba! </h3>
+<h3> Feel free to look around and comment anything, I am open to any new knowledge!</h3>
 
 # About me 💻
 
 <div align="center">
-<img align="right" src="https://i.pinimg.com/736x/d2/8f/94/d28f942467adfd4bf676e4f836aa0cd6.jpg" width="170px" height="170px">
+<img align="right" src="https://i.pinimg.com/736x/b9/00/ad/b900ad92f17d487a1b58d3b1a0a85e83.jpg" width="170px" height="170px">
  
 ```lua 
-SouzaTXT
+Dev Gobbi
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-OS: Windows 10 / Kali Linux
-Location: Brasil, Caraguatatuba - SP
-Learning: CyberSecurity and Python
-Languages: Portuguese and English 
-Hobbies: Volleyball, Gym and Listening music.
+OS: Windows 11
+Learning: Java
+Languages: Portuguese, English and the language of love.
+Hobbies: Videogames, RPG, Gym, Bass and Reading!
 ```
 </div>
 
