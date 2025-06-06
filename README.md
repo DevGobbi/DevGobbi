@@ -9,7 +9,7 @@
 # About me 💻
 
 <div align="center">
-<img align="right" src="https://i.pinimg.com/736x/b9/00/ad/b900ad92f17d487a1b58d3b1a0a85e83.jpg" width="170px" height="170px">
+<img align="center" src="https://i.pinimg.com/736x/bc/39/96/bc3996a3a743dfd05002b41600caad19.jpg" width="1000px" height="200px">
  
 ```lua 
 Dev Gobbi
@@ -25,23 +25,15 @@ Hobbies: Videogames, RPG, Gym, Bass and Reading!
 
 # Skills 💾
 
-I'm still learning new skills, i promise to update here when i learn more!
+As said before, i am currently learning Java and aiming to also learn any form of SQL so i can keep my projects going with some more flavour on them!
 <div align= "center">
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=kali" />
+<img src="https://skillicons.dev/icons?i=spring" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=discord" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake.svg">
-</picture>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=74F9A6&section=footer">
 </div>
- 
-[![DevGobbi](https://github-readme-stats.vercel.app/api?username=DevGobbi&theme=chartreuse-dark&show_icons=true)](https://github.com/devgobbi/github-readme-stats)
- [![Dev Gobbi](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&theme=chartreuse-dark&showicons=true)](https://github.com/DevGobbi/github-readme-stats)
+
