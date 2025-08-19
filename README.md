@@ -7,10 +7,6 @@
 <h3> Feel free to look around and comment anything, I am open to any new knowledge!</h3>
 
 # About me 💻
-
-<div align="center">
-<img align="center" src="https://i.pinimg.com/originals/40/55/a2/4055a2264eaddbda2b11e2b6fd66dbd0.gif" width="800px" height="400px">
- 
 ```java
 Dev Gobbi
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
