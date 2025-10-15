@@ -6,15 +6,6 @@
 <h3>I currently study System Development at IFSP - Caraguatatuba! </h3>
 <h3> Feel free to look around and comment anything, I am open to any new knowledge!</h3>
 
-# About me 💻
-```java
-Dev Gobbi
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-OS: Windows 11
-Learning: Java
-Languages: Portuguese, English and the language of love.
-Hobbies: Videogames, RPG, Gym, Bass and Reading!
-```
 </div>
 
 <br>
