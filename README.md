@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=João%20Gobbi&fontAlign=65&fontAlignY=40&color=FF0000" height="100%" width="100%">
 </div>
-@@ -6,15 +6,6 @@
+<h3> Ronaldo </h3>
 
 <h3>I currently study System Development at IFSP - Caraguatatuba! </h3>
 
