@@ -3,7 +3,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=65&fontAlignY=40&color=FF0000" height="100%" width="100%">
 </div>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=red"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=shadow_red"") /> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=shadow_red" />
 </div>
 
@@ -11,11 +11,15 @@
 
 # Skills 💾
 
-As said before, i am currently learning Java and aiming to also learn any form of SQL so i can keep my projects going with some more flavour on them!
+
 <div align= "center">
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=spring" />
+ <img src="https://skillicons.dev/icons?i=html" />
+ <img src="https://skillicons.dev/icons?i=css" />
+ <img src="https://skillicons.dev/icons?i=javascript" />
+ <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
