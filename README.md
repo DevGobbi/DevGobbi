@@ -13,21 +13,25 @@
 
 <div align= "center">
  Front-End
+ <br>
  <img src="https://skillicons.dev/icons?i=html" />
  <img src="https://skillicons.dev/icons?i=css" />
  <img src="https://skillicons.dev/icons?i=javascript" />
 
  Back-End
+ <br>
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=spring" />
  <img src="https://skillicons.dev/icons?i=c" />
 
  Versionamento de Código
+ <br>
  <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
 
  IDEs
+ <br>
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=intellij" />
 </div>
