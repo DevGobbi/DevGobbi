@@ -3,7 +3,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=65&fontAlignY=40&color=FF0000" height="100%" width="100%">
 </div>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=shadow_red"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=red"") /> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=shadow_red" />
 </div>
 
