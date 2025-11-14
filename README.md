@@ -1,11 +1,10 @@
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=65&fontAlignY=40&color=FF0000" height="100%" width="100%">
-
-<h3>Hello World! I'm João Victor, a novice brazilian software engineer! </h3>
-<h3>I currently study System Development at IFSP - Caraguatatuba! </h3>
-<h3> Feel free to look around and comment anything, I am open to any new knowledge!</h3>
-
+</div>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=dracula"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=dracula" />
 </div>
 
 <br>
