@@ -35,6 +35,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=neovim" />
 
+![snake gif](https://github.com/DevGobbi/DevGobbi/blob/output/github-contribution-grid-snake.svg)
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&section=footer">
 </div>
