@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=65&fontAlignY=40&color=5D3FD3" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=João%20Gobbi!&fontAlign=65&fontAlignY=40&color=5D3FD3" height="100%" width="100%">
 </div>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=midnight-purple"") /> 
