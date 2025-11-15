@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=neovim" />
 
 ![snake gif](https://github.com/DevGobbi/DevGobbi/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevGobbi&theme=react)](https://github.com/DevGobbi/DevGobbi)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevGobbi&repo=DevGobbi&theme=react)](https://github.com/DevGobbi/DevGobbi)
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&section=footer">
 </div>
