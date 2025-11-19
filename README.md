@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000&text=João%20Gobbi&fontAlign=50&fontAlignY=36" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=João%20Gobbi&fontAlign=50&fontAlignY=36&fontColor=FF0000" height="100%" width="100%">
 </div>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&bg_color=000000&title_color=FF0000&border_color=FF0000&text_color=FF0000&rank_icon=github&include_all_commits&text_bold&icon_color=FF0000"") /> 
@@ -36,5 +36,5 @@
 <img src="https://skillicons.dev/icons?i=neovim" />
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer">
 </div>
