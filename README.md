@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFFFF" height="100%" width="100%">
 </div>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=graywhite"") /> 
