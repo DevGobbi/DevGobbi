@@ -3,8 +3,8 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000" height="100%" width="100%">
 </div>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=graywhite"") /> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=graywhite" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&bg_color=000000&title_color=FF0000&border_color=FF0000&text_color=FF0000&rank_icon=github&include_all_commits&text_bold&icon_color=FF0000"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&bg_color=000000&title_color=FF0000&border_color=FF0000&text_color=FF0000&langs_count=5"") />
 </div>
 
 <br>
