@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FDFCF9" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000" height="100%" width="100%">
 </div>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=graywhite"") /> 
@@ -36,5 +36,5 @@
 <img src="https://skillicons.dev/icons?i=neovim" />
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
 </div>
