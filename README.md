@@ -1,10 +1,10 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5D3FD3" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000" height="100%" width="100%">
 </div>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=midnight-purple"") /> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=midnight-purple" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&layout=compact&theme=graywhite"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGobbi&layout=compact&theme=graywhite" />
 </div>
 
 <br>
