@@ -33,8 +33,6 @@
  IDEs
  <br>
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=neovim" />
-
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
 </div>
