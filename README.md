@@ -55,6 +55,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DevGobbi?theme=dark&font=Nunito&ext=heatmap&colors=0d0208,6b1535,c9a0b0,f4a0b8,f4a0b8,f4a0b8,f4a0b8,f4a0b8)
 
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=capitaopingu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=capitaopingu&redirect=true)
