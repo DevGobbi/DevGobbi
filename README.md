@@ -46,12 +46,3 @@
 [![Linux](https://img.shields.io/badge/Linux-1a0a10?style=for-the-badge&logo=linux&logoColor=f4a0b8)](#)
 
 ---
-
-<h3>Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGobbi&show_icons=true&bg_color=0d0208&border_color=6b1535&title_color=f4a0b8&icon_color=f4a0b8&text_color=c9a0b0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DevGobbi&background=0d0208&border=6b1535&ring=f4a0b8&fire=f4a0b8&currStreakLabel=f4a0b8&sideLabels=c9a0b0&dates=c9a0b0&sideNums=f4a0b8&currStreakNum=f4a0b8)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/DevGobbi?theme=dark&font=Nunito&ext=heatmap&colors=0d0208,6b1535,c9a0b0,f4a0b8,f4a0b8,f4a0b8,f4a0b8,f4a0b8)
-
