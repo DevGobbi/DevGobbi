@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="873758c1ae766acdcfe34143e5fa0655.jpg" alt="Banner" width="100%">
+  <img src="Banner.jpg" alt="Banner" width="100%">
 </div>
 
 
 
   ---
 
-> <h3>"Beyond the shadow you settle for, there is a miracle illuminated."</h3>
+> <h3>"In the midst of winter, I found there was, within me, an invincible summer."</h3>
   <p>
     I'm a software engineer focused on high-maturity systems, with a passion for architeture and system design.
     My studies are now focused on the intermediate level of frontend, aiming to use more React and JavaScript in projects.
